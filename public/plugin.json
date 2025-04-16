@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "preload": "preload/services.js",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:5173"
+  },
+  "features": [
+    {
+      "code": "bcmmzs",
+      "cmds": [
+        "编程命名助手"
+      ],
+      "explain": "编程命名助手"
+    }
+  ]
+}
